@@ -1,0 +1,16 @@
+{
+	"color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"predawn_findreplace_small": true,
+	"predawn_quick_panel_small": true,
+	"predawn_tabs_active_underline": true,
+	"predawn_tabs_small": true,
+	"show_encoding": true,
+	"tab_size": 2,
+	"theme": "predawn-DEV.sublime-theme",
+	"word_wrap": true
+}

@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ColorPicker",
+		"Emmet",
+		"FileDiffs",
+		"HTML-CSS-JS Prettify",
+		"Indent XML",
+		"JsFormat",
+		"Package Control",
+		"Predawn",
+		"Text Pastry",
+		"Theme - Brogrammer"
+	]
+}

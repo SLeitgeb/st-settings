@@ -1,0 +1,2895 @@
+{
+	"folder_history":
+	[
+		"/home/simon/prace/Projects/gis4dis",
+		"/home/simon/prace/Projects/gis4dis/collect",
+		"/home/simon/prace/test/collect",
+		"/home/simon/prace/Projects/test/md-button",
+		"/home/simon/.config/powerline",
+		"/home/simon",
+		"/home/simon/prace/Projects/hslayers-ng",
+		"/home/simon/private/skola/webapp"
+	],
+	"last_version": 3126,
+	"last_window_id": 30,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"templ",
+						"templateUrl"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"margin",
+						"margin-bottom"
+					],
+					[
+						"ol",
+						"ol_feature"
+					],
+					[
+						"zoom",
+						"zoomToFeature"
+					],
+					[
+						"resol",
+						"resolveLocalFileSystemURL"
+					],
+					[
+						"reso",
+						"resolveLocalFileSystemURL"
+					],
+					[
+						"tran",
+						"transformRequest"
+					],
+					[
+						"cure",
+						"currentFeature"
+					],
+					[
+						"get",
+						"getDirectory"
+					],
+					[
+						"read",
+						"readAsArrayBuffer"
+					],
+					[
+						"is",
+						"isDefined"
+					],
+					[
+						"sens",
+						"senslog_url"
+					],
+					[
+						"index",
+						"indexOf"
+					],
+					[
+						"delete",
+						"deleteVgiObservation"
+					],
+					[
+						"insert",
+						"insertVgiObservation"
+					],
+					[
+						"syn",
+						"sync_pending"
+					],
+					[
+						"obs",
+						"obs_vgi_id"
+					],
+					[
+						"sideba",
+						"sidebarExpanded"
+					],
+					[
+						"panel",
+						"panelspace0pened"
+					],
+					[
+						"panelspace",
+						"panelspace-opened"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 368.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"i",
+						"Indent JSON"
+					],
+					[
+						"pc:lp",
+						"Package Control: List Packages"
+					],
+					[
+						"pc:in",
+						"Package Control: Install Package"
+					],
+					[
+						"Color",
+						"Color Picker"
+					],
+					[
+						"Package: Install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 435.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"sublime.log_commands(False)",
+					"sublime.log_commands(True)",
+					"sublime.log_commands()",
+					"print(sublime.installed_packages_path())",
+					"print(sublime)",
+					"print(sublime())",
+					"print(sublime)",
+					"print(sublime.packages())",
+					"print(sublime.packages_path())",
+					"sublime.log_input(False)",
+					"sublime.log_input(True)",
+					"view.encoding()",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/simon/prace/Projects/hslayers-ng/components/floating_action_button/partials/floating_action_button.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/layout/partials/swipe-area.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/tracking/tracking.js",
+				"/home/simon/prace/Projects/hslayers-ng/node_modules/angular-material/modules/js/core/core.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/sidebar/partials/sidebar.html",
+				"/home/simon/prace/Projects/hslayers-ng/bower.json",
+				"/home/simon/prace/Projects/hslayers-ng/package.json",
+				"/home/simon/prace/Projects/hslayers-ng/node_modules/angular-material/modules/js/swipe/swipe.js",
+				"/home/simon/prace/Projects/hslayers-ng/node_modules/angular-material/modules/js/swipe/swipe.css",
+				"/home/simon/prace/Projects/hslayers-ng/node_modules/angular-material/modules/js/sidenav/sidenav.css",
+				"/home/simon/prace/Projects/hslayers-ng/node_modules/angular-material/modules/js/swipe/bower.json",
+				"/home/simon/prace/Projects/hslayers-ng/node_modules/angular-material/modules/js/swipe/swipe.min.css",
+				"/home/simon/prace/Projects/hslayers-ng/node_modules/angular-material/modules/js/sidenav/sidenav.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/mobile_settings/mobile_settings.js",
+				"/home/simon/prace/Projects/hslayers-ng/examples/liberecMaterial/app.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/search/partials/searchresults.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/search/partials/searchinput.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/layout/layout.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/search/search.js",
+				"/home/simon/prace/Projects/hslayers-ng/examples/liberecMaterial/materialComponents/matCore.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/geolocation/geolocation.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/map/map.js",
+				"/home/simon/prace/Projects/hslayers-ng/examples/liberecMaterial/skeleton.html",
+				"/home/simon/prace/Projects/hslayers-ng/examples/liberecMaterial/index.html",
+				"/home/simon/prace/Projects/hslayers-ng/examples/liberecMaterial/hslayers.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/toolbar/partials/toolbar.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/floating_action_button/floating_action_button.js",
+				"/home/simon/prace/Projects/hslayers-ng/examples/liberecMaterial/material-app.css",
+				"/home/simon/prace/Projects/hslayers-ng/components/draw/draw.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/sidebar/sidebar.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/sidebar/partials/minisidebar.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/compositions/partials/compositions.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/compositions/partials/dialog_info.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/core/core.js",
+				"/home/simon/prace/Projects/hslayers-ng/hslayers.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/status_creator/status_creator.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/compositions/compositions.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/draw/partials/draw.html",
+				"/home/simon/prace/Projects/hslayers-ng/examples/senslog/app.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/draw/partials/toolbar_button_directive.html",
+				"/home/simon/prace/Projects/hslayers-ng/examples/index.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/layout/partials/sidebar.html",
+				"/home/simon/prace/Projects/hslayers-ng/examples/pilsen_traffic/app.js",
+				"/home/simon/prace/Projects/hslayers-ng/examples/pilsen_traffic/translations.js",
+				"/home/simon/prace/Projects/hslayers-ng/examples/pilsen_traffic/pilsentraffic.js",
+				"/home/simon/prace/Projects/hslayers-ng/examples/pilsen_traffic/hslayers.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/mobile_toolbar/mobile_toolbar.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/mobile_toolbar/partials/mobile_toolbar.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/mobile_settings/mobile_settings.min.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/mobile_settings/partials/mobile_settings.html",
+				"/home/simon/prace/Projects/hslayers-ng/examples/pilsen_traffic/index.php",
+				"/home/simon/prace/Projects/hslayers-ng/components/draw/old_draw.js",
+				"/home/sleitgeb/Dropbox/skola/09_semestr/Oborovy_seminar/cviceni_02.tex",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/bower_components/s4a-js/deps/ol-v3.10.1/ol-debug.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/mobile_toolbar/mobile_toolbar.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/mobile_toolbar/partials/mobile_toolbar.html",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/draw/partials/draw.html",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/draw/draw.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/senslog/app.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/core/core.js",
+				"/home/sleitgeb/runescape/rsu-client-master/README.md",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/senslog/hslayers.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/draw/partials/toolbar_button_directive.html",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/senslog/index.html",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/permalink/permalink.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/draw/partials/draw.html.old",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/draw/partials/draw.html.new",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/otn/hslayers.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/webgl_viz/hslayers.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/compositions/partials/compositions.html",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/compositions/compositions.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/hslayers.html",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/otn/app.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/compositions/app.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/elf/app.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/full/app.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/datasources/app.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/ows/ows_nonwms.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/datasource_selector/datasource_selector.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/status_creator/status_creator.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/ows/ows.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/layermanager/layermanager.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/geolocation/geolocation.js",
+				"/home/sleitgeb/Dropbox/skola/remote-desktop-login.txt",
+				"/home/sleitgeb/Dropbox/access.txt",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/opt/sublime_text/sublime.py",
+				"/home/sleitgeb/private/data/bmhd_20160324-20160325/routes/route_25_course_6.json",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/JsFormat/Default (Linux).sublime-keymap",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/JsFormat/JsFormat.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/User/JsFormat.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+				"/home/sleitgeb/private/data/bmhd_20160324-20160325/routes/routeMap.json",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/swipe/swipe.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/index.html",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/hslayers_mobile.html",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/index_desktop.html",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/js/app.js",
+				"/home/sleitgeb/Stažené/bulva_test/preview",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/js/hslayers.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/mobile_toolbar/mobile_toolbar.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/core/core.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/css/mobile.css",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/mobile_toolbar/partials/mobile_toolbar.html",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/layers/hs.source.Wfs.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/map/map.js",
+				"/home/sleitgeb/Dropbox/skola/08_semestr/Pocitacova_grafika/cviceni/03/drawing.svg",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/utils.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/compositions/compositions.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/layers/panoramio/panoramio.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/lodexplorer/lodexplorer.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/ows/ows_nonwms.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/datasource_selector/datasource_selector.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/ows/ows.js",
+				"/home/sleitgeb/Dropbox/access_sort.py",
+				"/home/sleitgeb/Dropbox/access_bcp.txt",
+				"/home/sleitgeb/Dropbox/access_sort.pyc",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/Emmet/Default (Linux).sublime-keymap",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/FileDiffs/FileDiffs.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/User/ColorPicker.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/ColorPicker/ColorPicker.sublime-settings"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"",
+					"app.js",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"primary",
+					"md-direction",
+					"fab.primary",
+					"sidenav",
+					"side",
+					"<div style=\"display:none\"",
+					"            <!-- <md-list-item",
+					"div style=\"display:none\"",
+					"ng-if=\"Core.exists",
+					"\n\n            <md-list-item ng-if=\"Core.exists",
+					"<md-list-item ng-if=\"Core.exists",
+					"            <md-list-item",
+					"<md-list-item",
+					"ng-if=\"Core.exists",
+					"ng-if=\"",
+					"title=\"",
+					" title=\"",
+					"<md-icon",
+					"<md-list-item",
+					"md-list-item",
+					"class=\"glyphicon",
+					"span",
+					"<span",
+					"span class=\"menu-icon",
+					"span translate",
+					"class=\"sidebar-item-title\"",
+					"<span translate>",
+					" class=\"collapsible-body\"",
+					"data-toggle=\"tooltip\" data-container=\"body\" data-placement=\"auto\" ",
+					"class=\"sidebar-item-title\" ",
+					"md-button",
+					"\n        <br>",
+					"</md-button>",
+					"\n        </md-button>",
+					"</md-button>",
+					"\n            <div class=\"collapsible-header\">",
+					"<div class=\"collapsible-header\">",
+					"md-menu-item",
+					"</li>",
+					"<li",
+					"li",
+					"md-swipe",
+					"md-swipe-left",
+					"import",
+					"ngSwipe",
+					"ngTouch",
+					"touch",
+					"SidenavDirective",
+					"open",
+					"directive",
+					"true",
+					"queryChanged",
+					"queryChanges",
+					"clear",
+					"<a href=\"#!\">",
+					"init",
+					"sidebar",
+					"toolbar",
+					"^1.4.14",
+					"1.5.0",
+					"1.4.x",
+					"angular-material",
+					"sanitize",
+					"bower_components",
+					"<a href=\"#!\">{{\"Settings\"|translate}}</a>",
+					"<a href=\"#!\">",
+					"navbar",
+					"angular-",
+					"animate",
+					"angular-animate",
+					"service",
+					"topNavDropdown",
+					"blue",
+					"i",
+					"topnav",
+					"layout",
+					"mobileSettings",
+					"mobile_settings",
+					"<li ng-if=\"Core.exists('",
+					"li ng-if=\"Core.exists",
+					"<div class=\"collapsible-header\">",
+					"<li ",
+					"</a>",
+					"ng-class=\"{active: Core.mainpanel == ",
+					"ng-click=\"setMainPanel",
+					"ng-click",
+					"setMain",
+					"a href=\"#\"",
+					"mobileToolbar",
+					"controller",
+					"mobile_toolbar",
+					"remove",
+					"Source",
+					"source",
+					"removeFeature",
+					"postion",
+					"removefeature",
+					"<a href=\"#\" class=\"btn-floating mobile-fab-tip\">",
+					"data-position",
+					"position",
+					"floating",
+					"Source",
+					"source",
+					"remove",
+					"<li>",
+					"li>",
+					" blue\">",
+					"<span></span>",
+					"blue\">",
+					"<span>",
+					"span",
+					"Polygon",
+					"geolocation.updated",
+					"geolocation.switched",
+					"$scope.features[$scope.features.length - 1]",
+					"$scope.is_unsaved",
+					"(f",
+					"f",
+					"then",
+					"setCurrentFeature",
+					"setId",
+					"feature.uuid",
+					"feature",
+					"setCurrent",
+					"setcurrent",
+					"uuid",
+					"newPoint",
+					"setCurrentFeature"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"temp_obs_id"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 36.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 110.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 68.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 397.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"index",
+						"indexOf"
+					],
+					[
+						"delete",
+						"deleteVgiObservation"
+					],
+					[
+						"insert",
+						"insertVgiObservation"
+					],
+					[
+						"syn",
+						"sync_pending"
+					],
+					[
+						"obs",
+						"obs_vgi_id"
+					],
+					[
+						"sideba",
+						"sidebarExpanded"
+					],
+					[
+						"panel",
+						"panelspace0pened"
+					],
+					[
+						"panelspace",
+						"panelspace-opened"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "cordova/HSLCollector/www/js/app.js",
+					"settings":
+					{
+						"buffer_size": 10334,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "cordova/HSLCollector/www/css/app.css",
+					"settings":
+					{
+						"buffer_size": 20579,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "cordova/thematicMaps/www/css/mobile.css",
+					"settings":
+					{
+						"buffer_size": 6732,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "<!DOCTYPE html>\n<!--\n    Licensed to the Apache Software Foundation (ASF) under one\n    or more contributor license agreements.  See the NOTICE file\n    distributed with this work for additional information\n    regarding copyright ownership.  The ASF licenses this file\n    to you under the Apache License, Version 2.0 (the\n    \"License\"); you may not use this file except in compliance\n    with the License.  You may obtain a copy of the License at\n\n    http://www.apache.org/licenses/LICENSE-2.0\n\n    Unless required by applicable law or agreed to in writing,\n    software distributed under the License is distributed on an\n    \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY\n     KIND, either express or implied.  See the License for the\n    specific language governing permissions and limitations\n    under the License.\n-->\n<html>\n    <head>\n        <!--\n        Customize this policy to fit your own app's needs. For more guidance, see:\n            https://github.com/apache/cordova-plugin-whitelist/blob/master/README.md#content-security-policy\n        Some notes:\n            * gap: is required only on iOS (when using UIWebView) and is needed for JS->native communication\n            * https://ssl.gstatic.com is required only on Android and is needed for TalkBack to function properly\n            * Disables use of inline scripts in order to mitigate risk of XSS vulnerabilities. To change this:\n                * Enable inline JS: add 'unsafe-inline' to default-src\n        <meta http-equiv=\"Content-Security-Policy\" content=\"'img-src' 'self' *.tile.osm.org *.tiles.mapbox.com data:; style-src 'self' 'unsafe-inline'; media-src *; 'default-src'\">\n        -->\n        <meta http-equiv=\"Content-Security-Policy\" content=\"default-src *; img-src * data: blob: file:; style-src * 'self' 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'\">\n        <!-- <script type=\"text/javascript\" src=\"js/index.js\"></script> -->\n\n        <script type=\"text/javascript\" src=\"js/jquery.min.js\"></script>\n        <script type=\"text/javascript\" src=\"cordova.js\"></script>\n        <script type=\"text/javascript\" src=\"js/geolocation_logging.js\"></script>\n\n        <!-- Compiled and minified JavaScript -->\n        <!-- <script src=\"https://cdnjs.cloudflare.com/ajax/libs/materialize/0.99.0/js/materialize.min.js\"></script> -->\n        <script type=\"text/javascript\">\n            document.addEventListener(\"deviceready\", onDeviceReady, false);\n            \n            function onDeviceReady() {\n                console.log('Device ready.');\n                settingsDb = window.sqlitePlugin.openDatabase({name: 'settings.db', location: 'default'});\n                trackingDb = window.sqlitePlugin.openDatabase({name: 'tracking.db', location: 'default'});\n\n                db_id = 0;\n                trackingDb.transaction(createLog, errorCB, successCB);\n\n                document.addEventListener(\"backbutton\", function(e){\n                    if ($(\".panelspace-opened\")[0]) {\n                        togglePanelspace();\n                    } else if ($(\"#toolbar.show\")[0]) {\n                        $('#toolbar').toggleClass('show');\n                    } else if (!$(\".locate-mobile.ol-collapsed\")[0]) {\n                        $('.locate-mobile').toggleClass('ol-collapsed');\n                    } else {\n                        settingsDb.close(function () {\n                            console.log(\"DB successfully closed.\");\n                            navigator.app.exitApp();\n                        }, function (error) {\n                            console.log(error);\n                        });\n                    }\n                }, false);\n            }\n        </script>\n        <!-- <link rel=\"stylesheet\" href=\"font-awesome-4.3.0/css/font-awesome.min.css\"> -->\n        <meta name=\"format-detection\" content=\"telephone=no\">\n        <meta name=\"msapplication-tap-highlight\" content=\"no\">\n        <meta name=\"viewport\" content=\"user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width\">\n        <title>HSLCollector</title>\n    </head>\n    <body>\n        <div id=\"loading-logo\">\n          <svg\n                \n                xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n                xmlns:cc=\"http://creativecommons.org/ns#\"\n                xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n                xmlns:svg=\"http://www.w3.org/2000/svg\"\n                xmlns=\"http://www.w3.org/2000/svg\"\n                xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\"\n                xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\"\n                id=\"app-logo\"\n                version=\"1.1\"\n                inkscape:version=\"0.91 r13725\"\n                xml:space=\"preserve\"\n                viewBox=\"0 0 1433.75 571.25\"\n                sodipodi:docname=\"logo_sdi4apps.svg\"><defs\n                 id=\"defs6\" /><sodipodi:namedview\n                 pagecolor=\"#ffffff\"\n                 bordercolor=\"#666666\"\n                 borderopacity=\"1\"\n                 objecttolerance=\"10\"\n                 gridtolerance=\"10\"\n                 guidetolerance=\"10\"\n                 inkscape:pageopacity=\"0\"\n                 inkscape:pageshadow=\"2\"\n                 inkscape:window-width=\"960\"\n                 inkscape:window-height=\"1016\"\n                 id=\"namedview4\"\n                 showgrid=\"false\"\n                 inkscape:zoom=\"0.40737242\"\n                 inkscape:cx=\"779.27857\"\n                 inkscape:cy=\"282.48178\"\n                 inkscape:window-x=\"960\"\n                 inkscape:window-y=\"27\"\n                 inkscape:window-maximized=\"0\"\n                 inkscape:current-layer=\"g10\" /><g\n                 id=\"g10\"\n                 inkscape:groupmode=\"layer\"\n                 inkscape:label=\"ink_ext_XXXXXX\"\n                 transform=\"matrix(1.25,0,0,-1.25,0,571.25)\"><g\n                   id=\"g12\"\n                   transform=\"scale(0.1,0.1)\"><path\n                     d=\"m 68.3477,877.859 710.3203,0 c 191.723,0 298.122,72.856 318.742,219.041 0,83.4 -22.53,152.42 -67.59,207.06 -44.574,55.12 -112.156,104 -201.781,146.67 -100.176,48.89 -195.078,95.37 -284.703,139.95 -89.152,44.57 -168.238,91.55 -237.258,141.87 -68.539,49.85 -122.699,107.84 -162,173.99 -39.305,66.14 -58.9569,143.79 -58.9569,233.9 0,80.52 14.8594,152.89 45.0549,217.6 29.715,64.7 69.5,117.43 119.347,158.17 49.368,40.74 104.485,71.89 165.356,93.46 60.871,21.57 119.828,32.11 176.863,32.11 l 689.718,0 0,-255.46 -688.757,0 c -73.816,0 -131.808,-22.53 -173.988,-67.58 -41.699,-44.58 -64.227,-100.66 -67.102,-168.24 6.711,-80.52 37.864,-139.47 93.942,-176.86 66.144,-46.49 127.015,-84.36 182.136,-112.63 55.118,-28.76 124.137,-62.31 207.055,-100.66 82.442,-38.34 140.918,-66.62 174.464,-85.32 100.66,-60.86 185.97,-133.24 254.99,-217.6 69.5,-84.35 104.01,-188.84 104.01,-314.42 0,-80.52 -17.74,-160.082 -52.73,-239.168 C 1280.5,824.656 1220.59,758.516 1135.75,705.313 1051.39,652.109 938.754,625.27 798.32,625.27 l -729.9723,0 0,252.589\"\n                     style=\"fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none\"\n                     id=\"path14\"\n                     inkscape:connector-curvature=\"0\" /><path\n                     d=\"m 1616.01,625.27 0,2016.41 532.02,0 c 111.2,0 220.96,-20.61 328.32,-62.3 107.85,-41.7 208.02,-104.01 300.53,-186.93 92.5,-82.92 168.71,-187.41 228.62,-313.94 59.91,-126.06 93.94,-270.33 102.57,-432.33 -1.91,-118.87 -22.05,-237.73 -60.39,-356.12 -38.34,-118.39 -95.38,-225.75 -171.11,-323.048 -75.73,-96.821 -174.46,-176.383 -296.21,-238.692 -121.74,-62.312 -262.18,-96.343 -421.3,-103.05 l -164.4,0 0,258.343 186.92,0 c 96.34,0 185.49,23.485 267.45,70.934 81.96,46.973 150.5,107.843 206.1,181.653 55.12,73.82 97.3,155.3 127.01,244.93 29.24,89.15 44.1,177.33 44.1,264.09 -4.79,135.64 -38.34,260.26 -100.17,374.33 -62.31,113.6 -149.54,203.23 -261.22,268.41 -112.15,65.67 -243.49,98.26 -393.99,98.26 l -188.36,0 0,-1760.95 -266.49,0\"\n                     style=\"fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none\"\n                     id=\"path16\"\n                     inkscape:connector-curvature=\"0\" /><path\n                     d=\"m 3380.79,625.27 276.555,0 0,2016.41 -276.555,0 0,-2016.41 z\"\n                     style=\"fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none\"\n                     id=\"path18\"\n                     inkscape:connector-curvature=\"0\" /><path\n                     d=\"m 5552.98,625.27 5.75,1336.77 c 3.84,102.09 23.01,196.99 58,285.66 35.47,88.67 83.88,164.88 145.71,229.59 61.35,64.7 131.81,113.59 210.89,147.62 79.08,33.55 165.36,50.33 257.86,50.33 133.73,0 253.55,-30.2 359.48,-91.07 105.92,-60.87 188.84,-150.03 248.75,-266.97 59.92,-116.95 90.11,-256.43 91.07,-418.43 l 0,-1273.5 -270.8,0 0,915.46 -723.27,0 0,258.34 723.27,0 c 0.95,12.95 1.44,24.93 1.91,34.99 0.48,10.55 0.96,23.49 0.96,39.31 0,181.65 -36.42,318.73 -109.28,410.76 -72.85,92.5 -174.46,138.51 -304.35,138.51 l -5.75,0 c -102.58,0 -185.5,-25.88 -247.32,-77.16 -62.31,-51.77 -105.45,-112.16 -129.9,-182.14 -24.44,-69.5 -36.42,-136.6 -36.42,-201.3 l 0,-1336.77 -276.56,0\"\n                     style=\"fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none\"\n                     id=\"path20\"\n                     inkscape:connector-curvature=\"0\" /><path\n                     d=\"m 7161.03,7.44922 0,1308.49078 c 3.84,125.58 26.85,233.42 69.02,324.49 41.7,90.59 97.3,165.84 166.32,225.75 68.54,59.91 141.87,103.05 220.48,129.41 78.13,26.36 155.77,39.3 233.42,39.3 124.62,0 233.42,-23.01 327.36,-69.02 93.46,-45.53 168.71,-104.49 225.75,-175.9 57.04,-71.9 99.21,-148.59 126.05,-230.54 26.37,-81.97 39.79,-159.13 39.79,-232.47 0,-75.73 -10.07,-151.94 -30.2,-229.58 -20.13,-77.17 -55.6,-152.415 -105.92,-226.712 -50.81,-73.809 -118.87,-135.641 -205.14,-185.008 -85.8,-49.847 -190.29,-79.082 -312.99,-88.668 -49.84,0 -92.02,1.914 -127.97,6.231 -35.47,4.312 -74.29,12.937 -116.95,25.882 -42.66,13.418 -94.42,35.946 -155.29,67.579 l 0,265.535 c 114.07,-56.078 188.84,-90.59 223.35,-104.012 34.51,-12.937 83.88,-19.648 147.15,-19.648 86.27,0.957 162.48,23.484 229.1,67.582 66.62,44.093 116.95,103.049 150.98,176.859 34.04,74.29 51.29,155.77 51.29,244.45 0,94.9 -22.05,177.82 -66.63,250.19 -44.57,71.9 -102.57,127.01 -173.5,164.88 -70.94,37.86 -144.27,57.03 -219.04,57.03 -72.38,0 -142.35,-20.13 -210.89,-59.91 -68.07,-39.78 -124.14,-100.65 -167.76,-182.13 -43.61,-81.96 -65.18,-182.62 -65.18,-301.48 l 0,-1248.58078 -252.6,0\"\n                     style=\"fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none\"\n                     id=\"path22\"\n                     inkscape:connector-curvature=\"0\" /><path\n                     d=\"m 8763.33,7.44922 0,1308.49078 c 3.84,125.58 26.85,233.42 69.03,324.49 41.69,90.59 97.29,165.84 166.31,225.75 68.54,59.91 141.87,103.05 220.48,129.41 78.13,26.36 155.77,39.3 233.42,39.3 124.62,0 233.42,-23.01 327.36,-69.02 93.46,-45.53 168.71,-104.49 225.77,-175.9 57,-71.9 99.2,-148.59 126,-230.54 26.4,-81.97 39.8,-159.13 39.8,-232.47 0,-75.73 -10,-151.94 -30.2,-229.58 -20.1,-77.17 -55.6,-152.415 -105.9,-226.712 -50.81,-73.809 -118.87,-135.641 -205.14,-185.008 -85.8,-49.847 -190.29,-79.082 -312.99,-88.668 -49.84,0 -92.02,1.914 -127.97,6.231 -35.47,4.312 -74.29,12.937 -116.95,25.882 -42.66,13.418 -94.42,35.946 -155.29,67.579 l 0,265.535 c 114.07,-56.078 188.84,-90.59 223.35,-104.012 34.51,-12.937 83.88,-19.648 147.15,-19.648 86.27,0.957 162.48,23.484 229.1,67.582 66.63,44.093 116.95,103.049 150.98,176.859 34.03,74.29 51.29,155.77 51.29,244.45 0,94.9 -22.05,177.82 -66.63,250.19 -44.57,71.9 -102.57,127.01 -173.5,164.88 -70.94,37.86 -144.27,57.03 -219.04,57.03 -72.38,0 -142.36,-20.13 -210.89,-59.91 -68.07,-39.78 -124.14,-100.65 -167.76,-182.13 -43.61,-81.96 -65.18,-182.62 -65.18,-301.48 l 0,-1248.58078 -252.6,0\"\n                     style=\"fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none\"\n                     id=\"path24\"\n                     inkscape:connector-curvature=\"0\" /><path\n                     d=\"m 10330.6,860.605 693.6,0 c 5.7,0 12.5,-1.917 19.6,-5.753 45.1,4.793 83,14.859 114.1,30.199 30.7,15.816 47.5,46.969 50.3,93.465 0,34.984 -12.4,64.224 -37.8,87.714 -25.4,23.96 -59.5,45.05 -102.6,63.26 -43.1,18.22 -96.8,36.91 -160.6,55.12 -64.2,18.21 -125.1,35.47 -182.1,52.72 -132.8,44.58 -231,96.35 -294.8,154.34 -63.7,58 -96.8,138.04 -99.7,240.13 0,93.94 23.5,168.24 71,224.31 47,55.6 105.9,93.94 176.8,115.03 70.5,21.09 145.3,31.64 223.9,31.64 l 595.3,0 0,-241.57 -644.2,0 c -48.9,0 -87.2,-10.54 -115.5,-32.11 -27.8,-21.57 -41.7,-52.24 -41.7,-91.55 2.4,-30.67 17.2,-57.04 43.1,-78.6 26.4,-21.57 59,-40.27 98.3,-55.61 39.3,-15.33 80.5,-28.75 123.6,-39.3 43.2,-10.54 94,-23 152,-37.38 158.1,-44.1 273.2,-101.13 345.1,-172.07 72.3,-70.46 108.3,-160.56 108.3,-270.324 -16.8,-239.172 -166.3,-358.996 -448.2,-358.996 l -687.8,0 0,235.335\"\n                     style=\"fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none\"\n                     id=\"path26\"\n                     inkscape:connector-curvature=\"0\" /><path\n                     d=\"m 4780.83,1344.22 0,871.85 276.56,470.67 0,-1342.52 301.95,0 0,-252.59 -301.95,0 0,-466.36 -276.56,0 0,466.36 -736.2,0 c -115.04,0 -176.39,52.24 -183.58,157.21 3.84,26.36 11.5,58 23.97,95.38 l 718.47,1297.46 295.72,0 -723.74,-1297.46 605.36,0\"\n                     style=\"fill:#00adef;fill-opacity:1;fill-rule:nonzero;stroke:none\"\n                     id=\"path28\"\n                     inkscape:connector-curvature=\"0\" /><path\n                     d=\"m 9466.12,2862.05 c 156.52,0 283.46,-126.94 283.46,-283.47 0,-156.53 -126.94,-283.46 -283.46,-283.46 -156.53,0 -283.47,126.93 -283.47,283.46 0,156.53 126.94,283.47 283.47,283.47\"\n                     style=\"fill:#ed1c24;fill-opacity:1;fill-rule:evenodd;stroke:none\"\n                     id=\"path30\"\n                     inkscape:connector-curvature=\"0\" /><path\n                     d=\"m 9466.12,3428.98 c 469.58,0 850.38,-380.82 850.38,-850.4 l -283.5,0 c 0,313.05 -253.83,566.93 -566.88,566.93 l 0,283.47\"\n                     style=\"fill:#00adef;fill-opacity:1;fill-rule:evenodd;stroke:none\"\n                     id=\"path32\"\n                     class=\"animation\"\n                     inkscape:connector-curvature=\"0\" /><path\n                     d=\"m 9466.12,3995.9 c 782.68,0 1417.28,-634.69 1417.28,-1417.32 l -283.4,0 c 0,626.11 -507.8,1133.86 -1133.88,1133.86 l 0,283.46\"\n                     style=\"fill:#00adef;fill-opacity:1;fill-rule:evenodd;stroke:none\"\n                     id=\"path34\"\n                     class=\"animation\"\n                     inkscape:connector-curvature=\"0\" /><path\n                     d=\"m 9466.12,4562.83 c 1095.68,0 1984.28,-888.56 1984.28,-1984.25 l -283.5,0 c 0,939.16 -761.6,1700.79 -1700.78,1700.79 l 0,283.46\"\n                     style=\"fill:#00adef;fill-opacity:1;fill-rule:evenodd;stroke:none\"\n                     id=\"path36\"\n                     class=\"animation\"\n                     inkscape:connector-curvature=\"0\" /></g></g></svg>\n        </div>\n        <div class=\"app\">\n            <div hs ng-app=\"hs\" ng-controller=\"Main\" style=\"position: relative; height: 100%\"></div>\n        </div>\n        \n        <script type=\"text/javascript\">\n            var use_proxy = false;\n        </script>\n        <script type=\"text/javascript\" src=\"js/require.js\"></script>\n        <script type=\"text/javascript\" src=\"js/hslayers.js\"></script>\n    </body>\n</html>\n",
+					"file": "cordova/HSLCollector/www/index.html",
+					"file_size": 15344,
+					"file_write_time": 131496019843722489,
+					"settings":
+					{
+						"buffer_size": 15361,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "cordova/HSLCollector/www/index_desktop.html",
+					"settings":
+					{
+						"buffer_size": 14560,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "cordova/HSLCollector/www/js/hslayers.js",
+					"settings":
+					{
+						"buffer_size": 2224,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "cordova/HSLCollector/www/hslayers.html",
+					"settings":
+					{
+						"buffer_size": 8659,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 368.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"i",
+						"Indent JSON"
+					],
+					[
+						"pc:lp",
+						"Package Control: List Packages"
+					],
+					[
+						"pc:in",
+						"Package Control: Install Package"
+					],
+					[
+						"Color",
+						"Color Picker"
+					],
+					[
+						"Package: Install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 453.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"sublime.log_commands(False)",
+					"sublime.log_commands(True)",
+					"sublime.log_commands()",
+					"print(sublime.installed_packages_path())",
+					"print(sublime)",
+					"print(sublime())",
+					"print(sublime)",
+					"print(sublime.packages())",
+					"print(sublime.packages_path())",
+					"sublime.log_input(False)",
+					"sublime.log_input(True)",
+					"view.encoding()",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/simon/prace/Projects/cordova",
+				"/home/simon/prace/Projects/cordova/HSLCollector",
+				"/home/simon/prace/Projects/cordova/HSLCollector/www",
+				"/home/simon/prace/Projects/cordova/HSLCollector/www/js",
+				"/home/simon/prace/Projects/cordova/thematicMaps",
+				"/home/simon/prace/Projects/cordova/thematicMaps/www"
+			],
+			"file_history":
+			[
+				"/home/simon/prace/Projects/cordova/thematicMaps/www/package.json",
+				"/home/simon/prace/Projects/cordova/HSLCollector/www/js/require.js",
+				"/home/simon/prace/Projects/cordova/HSLCollector/www/hslayers_mobile.html",
+				"/home/simon/prace/Projects/cordova/HSLCollector/package.json",
+				"/home/simon/prace/Projects/cordova/HSLCollector/www/hslayers.html",
+				"/home/simon/prace/Projects/cordova/HSLCollector/www/js/hslayers.js",
+				"/home/simon/prace/Projects/cordova/thematicMaps/www/index.html",
+				"/home/simon/prace/Projects/cordova/HSLCollector/config.xml",
+				"/home/simon/prace/Projects/cordova/HSLCollector/build.json",
+				"/home/simon/.config/fish/config.fish",
+				"/home/simon/.bashrc",
+				"/.bashrd",
+				"/home/simon/prace/Projects/cordova/thematicMaps/config.xml",
+				"/home/sleitgeb/prace/Projects/cordova/thematicMaps/www/css/index.css",
+				"/home/sleitgeb/prace/Projects/cordova/thematicMaps/www/js/app.js",
+				"/home/sleitgeb/prace/Projects/cordova/HSLCollector/www/js/app.js",
+				"/home/sleitgeb/prace/Projects/cordova/cesisPoi/config.xml",
+				"/home/sleitgeb/prace/Projects/cordova/HSLCollector/www/index.html",
+				"/home/sleitgeb/prace/Projects/cordova/HSLCollector/www/index_desktop.html",
+				"/home/sleitgeb/prace/Projects/cordova/HSLCollector/config.xml",
+				"/home/sleitgeb/prace/Projects/cordova/thematicMaps/www/css/mobile.css",
+				"/home/sleitgeb/.bashrc",
+				"/home/sleitgeb/prace/Projects/cordova/openTransportNet/www/js/app.js",
+				"/home/sleitgeb/prace/Projects/cordova/europeanLocationFramework/www/js/app.js",
+				"/home/sleitgeb/prace/Projects/cordova/HSLCollector/www/senslog/senslog.js",
+				"/home/sleitgeb/prace/Projects/cordova/cesisPoi/www/js/app.js",
+				"/home/sleitgeb/prace/Projects/cordova/HSLCollector/www/js/hslayers.js",
+				"/home/sleitgeb/prace/Projects/cordova/HSLCollector/www/js/require.js",
+				"/home/sleitgeb/prace/Projects/cordova/HSLCollector/platforms/android/assets/www/js/require.js",
+				"/home/sleitgeb/prace/Projects/cordova/HSLCollector/platforms/android/build/intermediates/incremental/mergeDebugAssets/merger.xml",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/permalink/permalink.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/mobile_toolbar/partials/mobile_toolbar.html",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/senslog/app.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/draw/partials/draw.html",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/draw/partials/draw.html.old",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/draw/partials/draw.html.new",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/otn/hslayers.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/senslog/hslayers.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/webgl_viz/hslayers.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/compositions/partials/compositions.html",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/compositions/compositions.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/hslayers.html",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/otn/app.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/compositions/app.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/elf/app.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/full/app.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/datasources/app.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/ows/ows_nonwms.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/datasource_selector/datasource_selector.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/status_creator/status_creator.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/ows/ows.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/layermanager/layermanager.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/geolocation/geolocation.js",
+				"/home/sleitgeb/Dropbox/skola/remote-desktop-login.txt",
+				"/home/sleitgeb/Dropbox/access.txt",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/opt/sublime_text/sublime.py",
+				"/home/sleitgeb/private/data/bmhd_20160324-20160325/routes/route_25_course_6.json",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/JsFormat/Default (Linux).sublime-keymap",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/JsFormat/JsFormat.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/User/JsFormat.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+				"/home/sleitgeb/private/data/bmhd_20160324-20160325/routes/routeMap.json",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/swipe/swipe.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/index.html",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/hslayers_mobile.html",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/index_desktop.html",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/js/app.js",
+				"/home/sleitgeb/Stažené/bulva_test/preview",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/js/hslayers.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/mobile_toolbar/mobile_toolbar.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/core/core.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/css/mobile.css",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/mobile_toolbar/partials/mobile_toolbar.html",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/layers/hs.source.Wfs.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/map/map.js",
+				"/home/sleitgeb/Dropbox/skola/08_semestr/Pocitacova_grafika/cviceni/03/drawing.svg",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/utils.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/compositions/compositions.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/layers/panoramio/panoramio.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/lodexplorer/lodexplorer.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/ows/ows_nonwms.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/datasource_selector/datasource_selector.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/ows/ows.js",
+				"/home/sleitgeb/Dropbox/access_sort.py",
+				"/home/sleitgeb/Dropbox/access_bcp.txt",
+				"/home/sleitgeb/Dropbox/access_sort.pyc",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/Emmet/Default (Linux).sublime-keymap",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/FileDiffs/FileDiffs.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/User/ColorPicker.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/ColorPicker/ColorPicker.sublime-settings",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/hslayers.html",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/js/app_original.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/search/partials/searchresults.html",
+				"/home/sleitgeb/.config/gnome-session/session.ini",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/js/geolocation_logging.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/sidebar/sidebar.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/sidebar/partials/sidebar.html",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/bower_components/angular/package.json",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/bower_components/angular/README.md",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/package.json",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/toolbar/toolbar.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/geolocation/partials/geolocation_cordova.html",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/js/geolocation_cordova.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/geolocation/geolocation.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/measure/measure.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/search/search.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/img/.gitkeep",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/search/search_old.js",
+				"/home/sleitgeb/prace/Projects/cordova/.gitignore",
+				"/home/sleitgeb/private/ESPlorer/README.md",
+				"/home/sleitgeb/private/ESPlorer/ESPlorer/manifest.mf",
+				"/home/sleitgeb/private/ESPlorer/ESPlorer/src/ESPlorer/ESPlorer.java",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/toolbar/partials/toolbar.html",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/search/partials/searchinput.html",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/platforms/android/android.json",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/platforms/platforms.json",
+				"/home/sleitgeb/prace/Projects/temp/hslayers-ng/bower.json",
+				"/home/sleitgeb/Dropbox/skola/07_semestr/Metainformace_v_kartografii/example.atom.xml",
+				"/home/sleitgeb/Dropbox/skola/07_semestr/Uvod_do_politicke_geografie/prednasky/is_export/Geografie_a_demokracie_2010.html",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/js/app_geosparql.js"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"",
+					"platforms/android/assets",
+					"",
+					"app.js",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					".material-icons",
+					"md-icon",
+					"md-swipe",
+					"[md-swipe",
+					"div",
+					"md-swipe",
+					"app",
+					"body",
+					"mobile",
+					"%;\n",
+					"hs.md",
+					"--",
+					"hsl_path",
+					"toolbar",
+					"ul",
+					"4.5em",
+					"mobile_settings",
+					"red",
+					".panel",
+					"btn",
+					"border-bottom",
+					"tester",
+					"form",
+					": {",
+					"examples/senslog/",
+					"senslog",
+					"require",
+					"senslog",
+					"senslog.js",
+					"senslog",
+					"senslog.js",
+					"-",
+					"attrs_not_editable",
+					"obsId",
+					"sync_pending",
+					"categoryId",
+					"category_id",
+					"category",
+					"datasetName",
+					"datasetId",
+					"datasetName",
+					"dataset",
+					"datasetId",
+					"timestamp",
+					"unitId",
+					"if",
+					"senslog",
+					"panelEnabled",
+					"button_visibility",
+					"hostname",
+					"http://otn-production.intrasoft-intl.com",
+					"http://www.whatstheplan.eu",
+					"loadDataset",
+					"loadDatasets",
+					"datasources",
+					"http://www.whatstheplan.eu",
+					"config",
+					"url",
+					"config",
+					"config.status",
+					"getUrl",
+					"hostname",
+					"youth",
+					"drag",
+					"ol.xml.makeObjectPropertySetter",
+					"scope.$digest",
+					"$scope.$$digest",
+					"hs.geolocation.controller",
+					"getFeatureInfo",
+					"mobileToolbar",
+					"OlMap",
+					"mobileToolbar",
+					".js",
+					"Animate",
+					"mobile_toolbar",
+					"styles",
+					"Core",
+					"https://cdn.gitcdn.link/cdn/angular/bower-material/v1.1.0-rc1/angular-material.js",
+					"map",
+					"page",
+					".panelspace",
+					"js",
+					"console.log",
+					"gui-overlay",
+					"0",
+					"$scope.panelspace0pened",
+					"togglePanelspace",
+					"util",
+					"use_proxy",
+					"ajax",
+					"plan4all",
+					"hsproxy",
+					"proxify",
+					"options.hsproxy",
+					"hsproxy.cgi",
+					"use_proxy",
+					"ows.wfs",
+					"ctrl+`",
+					"\"ctrl+`\"",
+					"ctrl+`",
+					"ol.js",
+					"readGeometryElement",
+					"gm.readGeometryElement",
+					"src",
+					"WfsSource",
+					"use_proxy",
+					"WfsSource",
+					"ds.url",
+					"whatstheplan.eu",
+					"glyphicons",
+					"right",
+					"#map",
+					"sb-right",
+					"whatstheplan.eu",
+					"true",
+					"fadeOut",
+					"collapsed",
+					"collapse",
+					"visible",
+					"successCB",
+					"accuracyFeature",
+					"position_layer",
+					"<button class=\"menu-item btn btn-default btn-mobile\" type=\"button\">\n    <a href=\"http://google.com\">Click.</a>\n</button>",
+					"span",
+					"toolbar",
+					"button",
+					"btn",
+					"button"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "cordova/HSLCollector/www/js/app.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10334,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										10334,
+										10334
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 493.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "cordova/HSLCollector/www/css/app.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 20579,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										20579,
+										20579
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 19079.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "cordova/thematicMaps/www/css/mobile.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6732,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6730,
+										6730
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 714.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "cordova/HSLCollector/www/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 15361,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4159,
+										4159
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1026.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "cordova/HSLCollector/www/index_desktop.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 14560,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3306,
+										3306
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "cordova/HSLCollector/www/js/hslayers.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2224,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										231,
+										231
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "cordova/HSLCollector/www/hslayers.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8659,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1125,
+										1125
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,1600,900",
+			"project": "cordova.sublime-project",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"~/prace/Projects/cordova/hslcollector.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 283.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 24,
+			"workspace_name": "/home/simon/prace/Projects/cordova.sublime-workspace"
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"templ",
+						"templateUrl"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"margin",
+						"margin-bottom"
+					],
+					[
+						"ol",
+						"ol_feature"
+					],
+					[
+						"zoom",
+						"zoomToFeature"
+					],
+					[
+						"resol",
+						"resolveLocalFileSystemURL"
+					],
+					[
+						"reso",
+						"resolveLocalFileSystemURL"
+					],
+					[
+						"tran",
+						"transformRequest"
+					],
+					[
+						"cure",
+						"currentFeature"
+					],
+					[
+						"get",
+						"getDirectory"
+					],
+					[
+						"read",
+						"readAsArrayBuffer"
+					],
+					[
+						"is",
+						"isDefined"
+					],
+					[
+						"sens",
+						"senslog_url"
+					],
+					[
+						"index",
+						"indexOf"
+					],
+					[
+						"delete",
+						"deleteVgiObservation"
+					],
+					[
+						"insert",
+						"insertVgiObservation"
+					],
+					[
+						"syn",
+						"sync_pending"
+					],
+					[
+						"obs",
+						"obs_vgi_id"
+					],
+					[
+						"sideba",
+						"sidebarExpanded"
+					],
+					[
+						"panel",
+						"panelspace0pened"
+					],
+					[
+						"panelspace",
+						"panelspace-opened"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "hslayers-ng/node_modules/angular-material/modules/js/bottomSheet/bottomSheet.js",
+					"settings":
+					{
+						"buffer_size": 11818,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "hslayers-ng/components/core/core.js",
+					"settings":
+					{
+						"buffer_size": 37361,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "hslayers-ng/components/floating_action_button/floating_action_button.js",
+					"settings":
+					{
+						"buffer_size": 3270,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "hslayers-ng/components/floating_action_button/partials/floating_action_button.html",
+					"settings":
+					{
+						"buffer_size": 1236,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "/**\n * @namespace hs.layout\n * @memberOf hs\n */\ndefine(['angular', 'core', 'swipe'],\n\n    function(angular) {\n        angular.module('hs.layout', ['hs.core', 'swipe'])\n            /**\n            * @memberof hs.mdSidenav\n            * @ngdoc directive\n            * @name hs.mdSidenav.directive\n            * @description TODO\n            */\n            .directive('hs.mdSidenav.directive', function() {\n                return {\n                    templateUrl: hsl_path + 'components/layout/partials/sidenav.html?bust=' + gitsha\n                };\n            })\n\n            /**\n            * @memberof hs.mdToolbar\n            * @ngdoc directive\n            * @name hs.mdToolbar.directive\n            * @description TODO\n            */\n            .directive('hs.mdToolbar.directive', function() {\n                return {\n                    templateUrl: hsl_path + 'components/layout/partials/toolbar.html?bust=' + gitsha\n                };\n            })\n\n            .directive('hs.swipeArea.directive', function() {\n                return {\n                    templateUrl: hsl_path + 'components/layout/partials/swipe-area.html?bust=' + gitsha\n                };\n            })\n\n            .directive('hs.fab.directive', function() {\n                return {\n                    templateUrl: hsl_path + 'components/layout/partials/fab.html?bust=' + gitsha\n                };\n            })\n\n            /**\n            * @memberof hs.layout\n            * @ngdoc controller\n            * @name hs.layout.controller\n            * @description TODO\n            */\n            .controller('hs.layout.controller', ['$scope', '$window', 'Core', 'hs.map.service', 'gettextCatalog', 'config', '$templateCache', '$timeout', '$interval', '$mdSidenav', '$mdMenu',\n                function($scope, $window, Core, OlMap, gettextCatalog, config, $templateCache, $timeout, $interval, $mdSidenav, $mdMenu) {\n                    $scope.Core = Core;\n                    $scope.defaultFab = {\n                        primary: {\n                            clickAction: function() {\n                                console.log(\"Primary clicked.\");\n                            },\n                            classes: \"\",\n                            icon: {\n                                iconSet: \"material-icons\",\n                                classes: \"\",\n                                text: \"add\"\n                            },\n                            tooltip: {\n                                direction: \"left\",\n                                text: \"Add observation.\"\n                            }\n                        },\n                        secondary: [\n                            {\n                                clickAction: function() {\n                                    console.log(\"Secondary 1 clicked.\");\n                                },\n                                classes: \"\",\n                                icon: {\n                                    iconSet: \"material-icons\",\n                                    classes: \"\",\n                                    text: \"place\"\n                                },\n                                tooltip: {\n                                    direction: \"left\",\n                                    text: \"New point.\"\n                                }\n                            },\n                            {\n                                clickAction: function() {\n                                    console.log(\"Secondary 2 clicked.\");\n                                },\n                                classes: \"\",\n                                icon: {\n                                    iconSet: \"material-icons\",\n                                    classes: \"\",\n                                    text: \"timeline\"\n                                },\n                                tooltip: {\n                                    direction: \"left\",\n                                    text: \"New line.\"\n                                }\n                            },\n                            {\n                                clickAction: function() {\n                                    console.log(\"Secondary 3 clicked.\");\n                                },\n                                classes: \"\",\n                                icon: {\n                                    iconSet: \"material-icons\",\n                                    classes: \"\",\n                                    text: \"select_all\"\n                                },\n                                tooltip: {\n                                    direction: \"left\",\n                                    text: \"New polygon.\"\n                                }\n                            }\n                        ]\n                    };\n                    \\\n                    $scope.fab = {\n                        update: function(primary, secondary) {\n                            this.primary = primary;\n                            if (secondary) {\n                                this.secondary = secondary;\n                            } else if (this.secondary) {\n                                delete this.secondary;\n                            }\n                        },\n                        unset: function() {\n                            this.primary = $scope.defaultFab.primary;\n                            this.secondary = $scope.defaultFab.secondary ? $scope.defaultFab.secondary : undefined;\n                        }\n                    };\n\n                    $scope.$on('scope_loaded', function() {\n                        $(\"#loading-logo\").remove();\n                    });\n                    $scope.swipeOverlayStatus = false;\n\n                    $scope.openLeftSidenav = function() {\n                        $mdSidenav('sidenav-left').open()\n                        .then(function() {\n                            $scope.swipeOverlayStatus = true;\n                        });\n                    }\n\n                    $scope.closeLeftSidenav = function() {\n                        $mdSidenav('sidenav-left').close();\n                    }\n\n                    $mdSidenav('sidenav-left', true).then(function(){\n                        $mdSidenav('sidenav-left').onClose(function() {\n                            $scope.swipeOverlayStatus = false;\n                        });\n                    });\n\n                    $scope.$emit('scope_loaded', \"Layout\");\n                }\n\n            ])\n\n            .service('hs.layout.service', ['$scope', '$window', 'Core', 'hs.map.service', 'gettextCatalog', 'config', '$templateCache', '$timeout', '$interval', '$mdSidenav', '$mdMenu',\n                function($scope, $window, Core, OlMap, gettextCatalog, config, $templateCache, $timeout, $interval, $mdSidenav, $mdMenu) {\n                    \n                }\n            ]);\n    })\n",
+					"file": "hslayers-ng/components/layout/layout.js",
+					"file_size": 6883,
+					"file_write_time": 131498844420302133,
+					"settings":
+					{
+						"buffer_size": 6884,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "hslayers-ng/components/layout/partials/fab.html",
+					"settings":
+					{
+						"buffer_size": 1182,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "hslayers-ng/components/layout/partials/sidenav.html",
+					"settings":
+					{
+						"buffer_size": 8186,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "hslayers-ng/components/layout/partials/toolbar.html",
+					"settings":
+					{
+						"buffer_size": 2256,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 368.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"i",
+						"Indent JSON"
+					],
+					[
+						"pc:lp",
+						"Package Control: List Packages"
+					],
+					[
+						"pc:in",
+						"Package Control: Install Package"
+					],
+					[
+						"Color",
+						"Color Picker"
+					],
+					[
+						"Package: Install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 435.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"sublime.log_commands(False)",
+					"sublime.log_commands(True)",
+					"sublime.log_commands()",
+					"print(sublime.installed_packages_path())",
+					"print(sublime)",
+					"print(sublime())",
+					"print(sublime)",
+					"print(sublime.packages())",
+					"print(sublime.packages_path())",
+					"sublime.log_input(False)",
+					"sublime.log_input(True)",
+					"view.encoding()",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/simon/prace/Projects/hslayers-ng",
+				"/home/simon/prace/Projects/hslayers-ng/components",
+				"/home/simon/prace/Projects/hslayers-ng/components/floating_action_button",
+				"/home/simon/prace/Projects/hslayers-ng/components/floating_action_button/partials",
+				"/home/simon/prace/Projects/hslayers-ng/components/layout",
+				"/home/simon/prace/Projects/hslayers-ng/components/layout/partials"
+			],
+			"file_history":
+			[
+				"/home/simon/prace/Projects/hslayers-ng/components/floating_action_button/partials/floating_action_button.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/layout/partials/swipe-area.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/tracking/tracking.js",
+				"/home/simon/prace/Projects/hslayers-ng/node_modules/angular-material/modules/js/core/core.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/sidebar/partials/sidebar.html",
+				"/home/simon/prace/Projects/hslayers-ng/bower.json",
+				"/home/simon/prace/Projects/hslayers-ng/package.json",
+				"/home/simon/prace/Projects/hslayers-ng/node_modules/angular-material/modules/js/swipe/swipe.js",
+				"/home/simon/prace/Projects/hslayers-ng/node_modules/angular-material/modules/js/swipe/swipe.css",
+				"/home/simon/prace/Projects/hslayers-ng/node_modules/angular-material/modules/js/sidenav/sidenav.css",
+				"/home/simon/prace/Projects/hslayers-ng/node_modules/angular-material/modules/js/swipe/bower.json",
+				"/home/simon/prace/Projects/hslayers-ng/node_modules/angular-material/modules/js/swipe/swipe.min.css",
+				"/home/simon/prace/Projects/hslayers-ng/node_modules/angular-material/modules/js/sidenav/sidenav.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/mobile_settings/mobile_settings.js",
+				"/home/simon/prace/Projects/hslayers-ng/examples/liberecMaterial/app.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/search/partials/searchresults.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/search/partials/searchinput.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/layout/layout.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/search/search.js",
+				"/home/simon/prace/Projects/hslayers-ng/examples/liberecMaterial/materialComponents/matCore.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/geolocation/geolocation.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/map/map.js",
+				"/home/simon/prace/Projects/hslayers-ng/examples/liberecMaterial/skeleton.html",
+				"/home/simon/prace/Projects/hslayers-ng/examples/liberecMaterial/index.html",
+				"/home/simon/prace/Projects/hslayers-ng/examples/liberecMaterial/hslayers.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/toolbar/partials/toolbar.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/floating_action_button/floating_action_button.js",
+				"/home/simon/prace/Projects/hslayers-ng/examples/liberecMaterial/material-app.css",
+				"/home/simon/prace/Projects/hslayers-ng/components/draw/draw.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/sidebar/sidebar.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/sidebar/partials/minisidebar.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/compositions/partials/compositions.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/compositions/partials/dialog_info.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/core/core.js",
+				"/home/simon/prace/Projects/hslayers-ng/hslayers.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/status_creator/status_creator.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/compositions/compositions.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/draw/partials/draw.html",
+				"/home/simon/prace/Projects/hslayers-ng/examples/senslog/app.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/draw/partials/toolbar_button_directive.html",
+				"/home/simon/prace/Projects/hslayers-ng/examples/index.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/layout/partials/sidebar.html",
+				"/home/simon/prace/Projects/hslayers-ng/examples/pilsen_traffic/app.js",
+				"/home/simon/prace/Projects/hslayers-ng/examples/pilsen_traffic/translations.js",
+				"/home/simon/prace/Projects/hslayers-ng/examples/pilsen_traffic/pilsentraffic.js",
+				"/home/simon/prace/Projects/hslayers-ng/examples/pilsen_traffic/hslayers.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/mobile_toolbar/mobile_toolbar.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/mobile_toolbar/partials/mobile_toolbar.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/mobile_settings/mobile_settings.min.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/mobile_settings/partials/mobile_settings.html",
+				"/home/simon/prace/Projects/hslayers-ng/examples/pilsen_traffic/index.php",
+				"/home/simon/prace/Projects/hslayers-ng/components/draw/old_draw.js",
+				"/home/sleitgeb/Dropbox/skola/09_semestr/Oborovy_seminar/cviceni_02.tex",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/bower_components/s4a-js/deps/ol-v3.10.1/ol-debug.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/mobile_toolbar/mobile_toolbar.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/mobile_toolbar/partials/mobile_toolbar.html",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/draw/partials/draw.html",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/draw/draw.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/senslog/app.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/core/core.js",
+				"/home/sleitgeb/runescape/rsu-client-master/README.md",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/senslog/hslayers.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/draw/partials/toolbar_button_directive.html",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/senslog/index.html",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/permalink/permalink.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/draw/partials/draw.html.old",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/draw/partials/draw.html.new",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/otn/hslayers.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/webgl_viz/hslayers.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/compositions/partials/compositions.html",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/compositions/compositions.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/hslayers.html",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/otn/app.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/compositions/app.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/elf/app.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/full/app.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/datasources/app.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/ows/ows_nonwms.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/datasource_selector/datasource_selector.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/status_creator/status_creator.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/ows/ows.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/layermanager/layermanager.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/geolocation/geolocation.js",
+				"/home/sleitgeb/Dropbox/skola/remote-desktop-login.txt",
+				"/home/sleitgeb/Dropbox/access.txt",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/opt/sublime_text/sublime.py",
+				"/home/sleitgeb/private/data/bmhd_20160324-20160325/routes/route_25_course_6.json",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/JsFormat/Default (Linux).sublime-keymap",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/JsFormat/JsFormat.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/User/JsFormat.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+				"/home/sleitgeb/private/data/bmhd_20160324-20160325/routes/routeMap.json",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/swipe/swipe.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/index.html",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/hslayers_mobile.html",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/index_desktop.html",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/js/app.js",
+				"/home/sleitgeb/Stažené/bulva_test/preview",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/js/hslayers.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/mobile_toolbar/mobile_toolbar.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/core/core.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/css/mobile.css",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/mobile_toolbar/partials/mobile_toolbar.html",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/layers/hs.source.Wfs.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/map/map.js",
+				"/home/sleitgeb/Dropbox/skola/08_semestr/Pocitacova_grafika/cviceni/03/drawing.svg",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/utils.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/compositions/compositions.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/layers/panoramio/panoramio.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/lodexplorer/lodexplorer.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/ows/ows_nonwms.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/datasource_selector/datasource_selector.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/ows/ows.js",
+				"/home/sleitgeb/Dropbox/access_sort.py",
+				"/home/sleitgeb/Dropbox/access_bcp.txt",
+				"/home/sleitgeb/Dropbox/access_sort.pyc",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/Emmet/Default (Linux).sublime-keymap",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/FileDiffs/FileDiffs.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/User/ColorPicker.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/ColorPicker/ColorPicker.sublime-settings"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"",
+					"app.js",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"primary",
+					"md-direction",
+					"fab.primary",
+					"sidenav",
+					"side",
+					"<div style=\"display:none\"",
+					"            <!-- <md-list-item",
+					"div style=\"display:none\"",
+					"ng-if=\"Core.exists",
+					"\n\n            <md-list-item ng-if=\"Core.exists",
+					"<md-list-item ng-if=\"Core.exists",
+					"            <md-list-item",
+					"<md-list-item",
+					"ng-if=\"Core.exists",
+					"ng-if=\"",
+					"title=\"",
+					" title=\"",
+					"<md-icon",
+					"<md-list-item",
+					"md-list-item",
+					"class=\"glyphicon",
+					"span",
+					"<span",
+					"span class=\"menu-icon",
+					"span translate",
+					"class=\"sidebar-item-title\"",
+					"<span translate>",
+					" class=\"collapsible-body\"",
+					"data-toggle=\"tooltip\" data-container=\"body\" data-placement=\"auto\" ",
+					"class=\"sidebar-item-title\" ",
+					"md-button",
+					"\n        <br>",
+					"</md-button>",
+					"\n        </md-button>",
+					"</md-button>",
+					"\n            <div class=\"collapsible-header\">",
+					"<div class=\"collapsible-header\">",
+					"md-menu-item",
+					"</li>",
+					"<li",
+					"li",
+					"md-swipe",
+					"md-swipe-left",
+					"import",
+					"ngSwipe",
+					"ngTouch",
+					"touch",
+					"SidenavDirective",
+					"open",
+					"directive",
+					"true",
+					"queryChanged",
+					"queryChanges",
+					"clear",
+					"<a href=\"#!\">",
+					"init",
+					"sidebar",
+					"toolbar",
+					"^1.4.14",
+					"1.5.0",
+					"1.4.x",
+					"angular-material",
+					"sanitize",
+					"bower_components",
+					"<a href=\"#!\">{{\"Settings\"|translate}}</a>",
+					"<a href=\"#!\">",
+					"navbar",
+					"angular-",
+					"animate",
+					"angular-animate",
+					"service",
+					"topNavDropdown",
+					"blue",
+					"i",
+					"topnav",
+					"layout",
+					"mobileSettings",
+					"mobile_settings",
+					"<li ng-if=\"Core.exists('",
+					"li ng-if=\"Core.exists",
+					"<div class=\"collapsible-header\">",
+					"<li ",
+					"</a>",
+					"ng-class=\"{active: Core.mainpanel == ",
+					"ng-click=\"setMainPanel",
+					"ng-click",
+					"setMain",
+					"a href=\"#\"",
+					"mobileToolbar",
+					"controller",
+					"mobile_toolbar",
+					"remove",
+					"Source",
+					"source",
+					"removeFeature",
+					"postion",
+					"removefeature",
+					"<a href=\"#\" class=\"btn-floating mobile-fab-tip\">",
+					"data-position",
+					"position",
+					"floating",
+					"Source",
+					"source",
+					"remove",
+					"<li>",
+					"li>",
+					" blue\">",
+					"<span></span>",
+					"blue\">",
+					"<span>",
+					"span",
+					"Polygon",
+					"geolocation.updated",
+					"geolocation.switched",
+					"$scope.features[$scope.features.length - 1]",
+					"$scope.is_unsaved",
+					"(f",
+					"f",
+					"then",
+					"setCurrentFeature",
+					"setId",
+					"feature.uuid",
+					"feature",
+					"setCurrent",
+					"setcurrent",
+					"uuid",
+					"newPoint",
+					"setCurrentFeature"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"temp_obs_id"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "hslayers-ng/node_modules/angular-material/modules/js/bottomSheet/bottomSheet.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11818,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 5168.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "hslayers-ng/components/core/core.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 37361,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6761,
+										6761
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1887.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "hslayers-ng/components/floating_action_button/floating_action_button.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3270,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 561.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "hslayers-ng/components/floating_action_button/partials/floating_action_button.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1236,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "hslayers-ng/components/layout/layout.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6884,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4832,
+										4832
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1796.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "hslayers-ng/components/layout/partials/fab.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1182,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										240,
+										240
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "hslayers-ng/components/layout/partials/sidenav.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8186,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										119,
+										119
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"word_wrap": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "hslayers-ng/components/layout/partials/toolbar.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2256,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										58,
+										58
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 306.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 36.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 110.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,1600,900",
+			"project": "hslayers-ng.sublime-project",
+			"replace":
+			{
+				"height": 68.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 397.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 27,
+			"workspace_name": "/home/simon/prace/Projects/hslayers-ng.sublime-workspace"
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"templ",
+						"templateUrl"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"margin",
+						"margin-bottom"
+					],
+					[
+						"ol",
+						"ol_feature"
+					],
+					[
+						"zoom",
+						"zoomToFeature"
+					],
+					[
+						"resol",
+						"resolveLocalFileSystemURL"
+					],
+					[
+						"reso",
+						"resolveLocalFileSystemURL"
+					],
+					[
+						"tran",
+						"transformRequest"
+					],
+					[
+						"cure",
+						"currentFeature"
+					],
+					[
+						"get",
+						"getDirectory"
+					],
+					[
+						"read",
+						"readAsArrayBuffer"
+					],
+					[
+						"is",
+						"isDefined"
+					],
+					[
+						"sens",
+						"senslog_url"
+					],
+					[
+						"index",
+						"indexOf"
+					],
+					[
+						"delete",
+						"deleteVgiObservation"
+					],
+					[
+						"insert",
+						"insertVgiObservation"
+					],
+					[
+						"syn",
+						"sync_pending"
+					],
+					[
+						"obs",
+						"obs_vgi_id"
+					],
+					[
+						"sideba",
+						"sidebarExpanded"
+					],
+					[
+						"panel",
+						"panelspace0pened"
+					],
+					[
+						"panelspace",
+						"panelspace-opened"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/simon/prace/Projects/gis4dis/rest/api/views.py",
+					"settings":
+					{
+						"buffer_size": 1155,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/simon/prace/Projects/gis4dis/rest/rest/settings.py",
+					"settings":
+					{
+						"buffer_size": 4873,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "<!DOCTYPE html>\n<html>\n<head>\n\t<title>GIS4DIS registration</title>\n</head>\n<body>\n<form action=\"/rest-auth/registration/\" method=\"POST\" enctype=\"multipart/form-data\">\n\t<input type=\"text\" name=\"username\">\n\t<input type=\"text\" name=\"email\">\n\t<input type=\"text\" name=\"password1\">\n\t<input type=\"text\" name=\"password2\">\n\t<button>POST</button>\n</form>\n</body>\n</html>",
+					"settings":
+					{
+						"buffer_size": 360,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 170.0,
+				"last_filter": "ss:html",
+				"selected_items":
+				[
+					[
+						"ss:html",
+						"Set Syntax: HTML"
+					],
+					[
+						"i",
+						"Indent JSON"
+					],
+					[
+						"pc:lp",
+						"Package Control: List Packages"
+					],
+					[
+						"pc:in",
+						"Package Control: Install Package"
+					],
+					[
+						"Color",
+						"Color Picker"
+					],
+					[
+						"Package: Install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 453.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"sublime.log_commands(False)",
+					"sublime.log_commands(True)",
+					"sublime.log_commands()",
+					"print(sublime.installed_packages_path())",
+					"print(sublime)",
+					"print(sublime())",
+					"print(sublime)",
+					"print(sublime.packages())",
+					"print(sublime.packages_path())",
+					"sublime.log_input(False)",
+					"sublime.log_input(True)",
+					"view.encoding()",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/simon/prace/Projects/gis4dis",
+				"/home/simon/prace/Projects/gis4dis/rest",
+				"/home/simon/prace/Projects/gis4dis/rest/api",
+				"/home/simon/prace/Projects/gis4dis/rest/rest"
+			],
+			"file_history":
+			[
+				"/home/simon/prace/Projects/hslayers-ng/components/floating_action_button/partials/floating_action_button.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/layout/partials/swipe-area.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/tracking/tracking.js",
+				"/home/simon/prace/Projects/hslayers-ng/node_modules/angular-material/modules/js/core/core.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/sidebar/partials/sidebar.html",
+				"/home/simon/prace/Projects/hslayers-ng/bower.json",
+				"/home/simon/prace/Projects/hslayers-ng/package.json",
+				"/home/simon/prace/Projects/hslayers-ng/node_modules/angular-material/modules/js/swipe/swipe.js",
+				"/home/simon/prace/Projects/hslayers-ng/node_modules/angular-material/modules/js/swipe/swipe.css",
+				"/home/simon/prace/Projects/hslayers-ng/node_modules/angular-material/modules/js/sidenav/sidenav.css",
+				"/home/simon/prace/Projects/hslayers-ng/node_modules/angular-material/modules/js/swipe/bower.json",
+				"/home/simon/prace/Projects/hslayers-ng/node_modules/angular-material/modules/js/swipe/swipe.min.css",
+				"/home/simon/prace/Projects/hslayers-ng/node_modules/angular-material/modules/js/sidenav/sidenav.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/mobile_settings/mobile_settings.js",
+				"/home/simon/prace/Projects/hslayers-ng/examples/liberecMaterial/app.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/search/partials/searchresults.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/search/partials/searchinput.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/layout/layout.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/search/search.js",
+				"/home/simon/prace/Projects/hslayers-ng/examples/liberecMaterial/materialComponents/matCore.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/geolocation/geolocation.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/map/map.js",
+				"/home/simon/prace/Projects/hslayers-ng/examples/liberecMaterial/skeleton.html",
+				"/home/simon/prace/Projects/hslayers-ng/examples/liberecMaterial/index.html",
+				"/home/simon/prace/Projects/hslayers-ng/examples/liberecMaterial/hslayers.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/toolbar/partials/toolbar.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/floating_action_button/floating_action_button.js",
+				"/home/simon/prace/Projects/hslayers-ng/examples/liberecMaterial/material-app.css",
+				"/home/simon/prace/Projects/hslayers-ng/components/draw/draw.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/sidebar/sidebar.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/sidebar/partials/minisidebar.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/compositions/partials/compositions.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/compositions/partials/dialog_info.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/core/core.js",
+				"/home/simon/prace/Projects/hslayers-ng/hslayers.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/status_creator/status_creator.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/compositions/compositions.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/draw/partials/draw.html",
+				"/home/simon/prace/Projects/hslayers-ng/examples/senslog/app.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/draw/partials/toolbar_button_directive.html",
+				"/home/simon/prace/Projects/hslayers-ng/examples/index.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/layout/partials/sidebar.html",
+				"/home/simon/prace/Projects/hslayers-ng/examples/pilsen_traffic/app.js",
+				"/home/simon/prace/Projects/hslayers-ng/examples/pilsen_traffic/translations.js",
+				"/home/simon/prace/Projects/hslayers-ng/examples/pilsen_traffic/pilsentraffic.js",
+				"/home/simon/prace/Projects/hslayers-ng/examples/pilsen_traffic/hslayers.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/mobile_toolbar/mobile_toolbar.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/mobile_toolbar/partials/mobile_toolbar.html",
+				"/home/simon/prace/Projects/hslayers-ng/components/mobile_settings/mobile_settings.min.js",
+				"/home/simon/prace/Projects/hslayers-ng/components/mobile_settings/partials/mobile_settings.html",
+				"/home/simon/prace/Projects/hslayers-ng/examples/pilsen_traffic/index.php",
+				"/home/simon/prace/Projects/hslayers-ng/components/draw/old_draw.js",
+				"/home/sleitgeb/Dropbox/skola/09_semestr/Oborovy_seminar/cviceni_02.tex",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/bower_components/s4a-js/deps/ol-v3.10.1/ol-debug.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/mobile_toolbar/mobile_toolbar.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/mobile_toolbar/partials/mobile_toolbar.html",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/draw/partials/draw.html",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/draw/draw.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/senslog/app.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/core/core.js",
+				"/home/sleitgeb/runescape/rsu-client-master/README.md",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/senslog/hslayers.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/draw/partials/toolbar_button_directive.html",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/senslog/index.html",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/permalink/permalink.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/draw/partials/draw.html.old",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/draw/partials/draw.html.new",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/otn/hslayers.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/webgl_viz/hslayers.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/compositions/partials/compositions.html",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/compositions/compositions.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/hslayers.html",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/otn/app.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/compositions/app.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/elf/app.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/full/app.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/examples/datasources/app.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/ows/ows_nonwms.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/datasource_selector/datasource_selector.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/status_creator/status_creator.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/ows/ows.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/layermanager/layermanager.js",
+				"/home/sleitgeb/prace/Projects/hslayers-ng/components/geolocation/geolocation.js",
+				"/home/sleitgeb/Dropbox/skola/remote-desktop-login.txt",
+				"/home/sleitgeb/Dropbox/access.txt",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/opt/sublime_text/sublime.py",
+				"/home/sleitgeb/private/data/bmhd_20160324-20160325/routes/route_25_course_6.json",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/JsFormat/Default (Linux).sublime-keymap",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/JsFormat/JsFormat.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/User/JsFormat.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+				"/home/sleitgeb/private/data/bmhd_20160324-20160325/routes/routeMap.json",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/swipe/swipe.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/index.html",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/hslayers_mobile.html",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/index_desktop.html",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/js/app.js",
+				"/home/sleitgeb/Stažené/bulva_test/preview",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/js/hslayers.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/mobile_toolbar/mobile_toolbar.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/core/core.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/css/mobile.css",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/mobile_toolbar/partials/mobile_toolbar.html",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/layers/hs.source.Wfs.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/map/map.js",
+				"/home/sleitgeb/Dropbox/skola/08_semestr/Pocitacova_grafika/cviceni/03/drawing.svg",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/utils.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/compositions/compositions.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/layers/panoramio/panoramio.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/lodexplorer/lodexplorer.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/ows/ows_nonwms.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/datasource_selector/datasource_selector.js",
+				"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn/www/components/ows/ows.js",
+				"/home/sleitgeb/Dropbox/access_sort.py",
+				"/home/sleitgeb/Dropbox/access_bcp.txt",
+				"/home/sleitgeb/Dropbox/access_sort.pyc",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/Emmet/Default (Linux).sublime-keymap",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/FileDiffs/FileDiffs.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/User/ColorPicker.sublime-settings",
+				"/home/sleitgeb/.config/sublime-text-3/Packages/ColorPicker/ColorPicker.sublime-settings"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"",
+					"app.js",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"primary",
+					"md-direction",
+					"fab.primary",
+					"sidenav",
+					"side",
+					"<div style=\"display:none\"",
+					"            <!-- <md-list-item",
+					"div style=\"display:none\"",
+					"ng-if=\"Core.exists",
+					"\n\n            <md-list-item ng-if=\"Core.exists",
+					"<md-list-item ng-if=\"Core.exists",
+					"            <md-list-item",
+					"<md-list-item",
+					"ng-if=\"Core.exists",
+					"ng-if=\"",
+					"title=\"",
+					" title=\"",
+					"<md-icon",
+					"<md-list-item",
+					"md-list-item",
+					"class=\"glyphicon",
+					"span",
+					"<span",
+					"span class=\"menu-icon",
+					"span translate",
+					"class=\"sidebar-item-title\"",
+					"<span translate>",
+					" class=\"collapsible-body\"",
+					"data-toggle=\"tooltip\" data-container=\"body\" data-placement=\"auto\" ",
+					"class=\"sidebar-item-title\" ",
+					"md-button",
+					"\n        <br>",
+					"</md-button>",
+					"\n        </md-button>",
+					"</md-button>",
+					"\n            <div class=\"collapsible-header\">",
+					"<div class=\"collapsible-header\">",
+					"md-menu-item",
+					"</li>",
+					"<li",
+					"li",
+					"md-swipe",
+					"md-swipe-left",
+					"import",
+					"ngSwipe",
+					"ngTouch",
+					"touch",
+					"SidenavDirective",
+					"open",
+					"directive",
+					"true",
+					"queryChanged",
+					"queryChanges",
+					"clear",
+					"<a href=\"#!\">",
+					"init",
+					"sidebar",
+					"toolbar",
+					"^1.4.14",
+					"1.5.0",
+					"1.4.x",
+					"angular-material",
+					"sanitize",
+					"bower_components",
+					"<a href=\"#!\">{{\"Settings\"|translate}}</a>",
+					"<a href=\"#!\">",
+					"navbar",
+					"angular-",
+					"animate",
+					"angular-animate",
+					"service",
+					"topNavDropdown",
+					"blue",
+					"i",
+					"topnav",
+					"layout",
+					"mobileSettings",
+					"mobile_settings",
+					"<li ng-if=\"Core.exists('",
+					"li ng-if=\"Core.exists",
+					"<div class=\"collapsible-header\">",
+					"<li ",
+					"</a>",
+					"ng-class=\"{active: Core.mainpanel == ",
+					"ng-click=\"setMainPanel",
+					"ng-click",
+					"setMain",
+					"a href=\"#\"",
+					"mobileToolbar",
+					"controller",
+					"mobile_toolbar",
+					"remove",
+					"Source",
+					"source",
+					"removeFeature",
+					"postion",
+					"removefeature",
+					"<a href=\"#\" class=\"btn-floating mobile-fab-tip\">",
+					"data-position",
+					"position",
+					"floating",
+					"Source",
+					"source",
+					"remove",
+					"<li>",
+					"li>",
+					" blue\">",
+					"<span></span>",
+					"blue\">",
+					"<span>",
+					"span",
+					"Polygon",
+					"geolocation.updated",
+					"geolocation.switched",
+					"$scope.features[$scope.features.length - 1]",
+					"$scope.is_unsaved",
+					"(f",
+					"f",
+					"then",
+					"setCurrentFeature",
+					"setId",
+					"feature.uuid",
+					"feature",
+					"setCurrent",
+					"setcurrent",
+					"uuid",
+					"newPoint",
+					"setCurrentFeature"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"temp_obs_id"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/simon/prace/Projects/gis4dis"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/simon/prace/Projects/gis4dis/rest/api/views.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1155,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										797,
+										797
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/simon/prace/Projects/gis4dis/rest/rest/settings.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4873,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3725,
+										3725
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2063.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 360,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 110.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,1600,900",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"/home/sleitgeb/prace/Projects/cordova/vectorWmsOtn.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 397.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 30,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/simon/prace/Projects/hslayers-ng.sublime-workspace",
+			"/home/simon/prace/Projects/gis4dis/gis4dis-collect.sublime-workspace",
+			"/home/simon/prace/Projects/cordova.sublime-workspace"
+		]
+	}
+}
